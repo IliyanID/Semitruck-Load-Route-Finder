@@ -1,6 +1,8 @@
 <h1 align="center">Semi Truck Load Route Finder</h1>
 <p align="center">Finds the most profitable route to take by scraping load websites. Utilizes Java and Selenium to do the calculations.</p>
 
+![demo](https://raw.githubusercontent.com/IliyanID/Semitruck-Load-Route-Finder/main/Resources/front-page.PNG)
+
 ## 🛠 Installation & Set Up
 
 1. Create Runnabl .jar
